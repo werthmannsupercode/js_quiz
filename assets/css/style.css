@@ -1,0 +1,18 @@
+div {
+    text-align: center;
+}
+
+div article button {
+    background-color: black;
+    padding: 2vh 2vw;
+    margin: 2vh 2vw;
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+    border: none
+}
+
+div article button:hover {
+    background-color: magenta;
+    cursor: pointer;
+}
